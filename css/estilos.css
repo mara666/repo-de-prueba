@@ -1,0 +1,143 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1em;
+}
+
+h1{
+    font-family: 'Raleway', Courier, monospace
+}
+
+#contenedor{
+    width: 95%;
+    height: 80%;
+    background: white;
+    margin: 0.5em auto;
+    padding: 0.5em;
+}
+
+#contenido{
+    height: 50%;
+    background: white;
+}
+
+#section{
+    height: 100%;
+    width: 20%;
+    background: white;
+    float: left;
+}
+
+#aside{
+    height: 100%;
+    width: 80%;
+    float: right;
+}
+
+#navbar{
+    width: 100%;
+    text-align: right;
+    list-style:none;
+    line-height: 2em;
+    font-size: 0.9em;
+    background-image: url(img/.titulo_emilia_cole);
+}
+
+#music{
+    height: 100%;
+    width: 100%;
+    float: left;
+}
+
+#links_music{
+    height: 100%;
+    width: 100%;
+}
+
+.titulo_contacto{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 25px;
+}
+
+.titulo_emilia_cole{
+    font-family: 'Work Sans', sans-serif;
+    position: absolute;
+    top: 65%;
+    font-size: 25px;
+}
+
+.titulo_music{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 20px;
+}
+
+.twist{
+    font-family: 'Raleway', Courier, monospace;
+    font-size: 30px;
+    position: absolute;
+    top: 90%;
+    width: 100%;
+    background-color: rgb(255, 255, 255, 0.5);
+}
+
+ul{
+    font-size: 0.9em;
+    line-height: 2em;
+    float: left;
+}
+
+a:link 
+{ 
+    text-decoration:none; 
+    color: black;
+} 
+
+a:visited{
+    text-decoration: none;
+    color: black;
+}
+
+ol.lista{
+    line-height: 2em;
+  }
+
+.contact_celeste{
+    color: rgb(52, 172, 162);
+}
+
+.about_menu{
+    font-size: 30px;
+    line-height: 2em;
+    font-size: 0.9em;
+    position: absolute;
+    top: 5%;
+    width: 67%;
+    background-color: rgb(255, 255, 255, 0.5);
+    list-style: none;
+    text-align: right;
+}
+
+.about_section{
+    height: 100%;
+    width: 30%;
+    background: white;
+    float: right;
+}
+
+#titulo_section{
+    font-family: 'Work Sans', sans-serif;
+    position: absolute;
+    top: 25%;
+    font-size: 50px;
+}
+
+#contenido_celeste{
+    color: rgb(52, 172, 162);
+    position: absolute;
+    top: 45%;
+}
+
+.titulo_contenido_celeste{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    line-height: 1.5em;
+}
